@@ -1,0 +1,34 @@
+{
+  "pack": {
+    "description": [
+      {
+        "bold": true,
+        "color": "#CCCCCC",
+        "font": "minecraft:include/default", 
+        "text": "Visible  vanilla  translations"
+      },
+      [
+        {
+          "bold": true,
+          "color": "red",
+          "font": "minecraft:uniform",
+          "italic": true,
+          "text": "(USE LANG "
+        },
+        {
+          "color": "#55FFFF",
+          "text": "Visible Translations"
+        },
+        ")"
+      ]
+    ],
+    "pack_format": 7,
+    "supported_formats": [4, 42]
+  },
+  "language": {
+    "debug.visible":{
+      "name": "§b§o§lVisible Translations§r",
+      "region": "debug"
+    }
+  }
+}
